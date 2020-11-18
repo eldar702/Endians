@@ -1,4 +1,5 @@
-Endians
+*Endians*
+
 A program to detect Endians and play with.
 
 *Functions*
