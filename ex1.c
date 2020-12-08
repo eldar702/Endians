@@ -1,5 +1,3 @@
-// 205616634 Eldar Shlomi
-
 /* big and small endian are 2 different method for storing bits and bytes of data types.
  * the difference is expressed in how everything is representing and saving in the memory.
  * in Big endian the, the MSB is represent by the most left bit of the most left byte ,and the LSB is represent by the most right bit.
